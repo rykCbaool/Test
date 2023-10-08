@@ -1,1 +1,1 @@
-public void Activate(Notepad.exe);
+XboxGameBarWidget (XboxGameBarWidgetActivatedEventArgs args, Windows.UI.Core.CoreWindow coreWindow, Windows.UI.Xaml.Controls.Frame frame);
